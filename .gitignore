@@ -1,0 +1,21 @@
+# Django関連
+*.pyc
+__pycache__/
+db.sqlite3
+/static/
+.env
+
+# Node.js関連
+node_modules/
+dist/
+*.log
+yarn-error.log
+npm-debug.log
+
+# IDE関連
+.vscode/
+.idea/
+.DS_Store
+
+# Virtual environment
+env/
